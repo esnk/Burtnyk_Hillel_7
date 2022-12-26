@@ -1,0 +1,30 @@
+h2 {
+  background-color: red;
+}
+#green {
+  color: darkgreen;
+}
+.blue {
+  background-color: blue;
+}
+.font_size {
+  font-size: 35px;
+}
+.pink {
+  background-color: pink;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue > p {
+  background-color: aqua;
+}
+.purple > p {
+  background-color: purple;
+}
+.purple > h4 {
+  color: blueviolet;
+}
+.main_color {
+  background-color: mediumaquamarine;
+}
